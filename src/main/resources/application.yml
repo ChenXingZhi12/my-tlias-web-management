@@ -19,8 +19,8 @@ mybatis:
 aliyun:
   oss:
     endpoint: https://oss-cn-beijing.aliyuncs.com
-    accessKeyId: LTAI5t5aLMAtgEmFuiVtRs3P
-    accessKeySecret: ZThkzJooU1QIwVch7LDxq4c9GrLUZr
+    accessKeyId: 888888888888888888
+    accessKeySecret: 888888888888888888
     bucketName: chenxingzhi-web-ylias
 
 #spring事务管理日志
